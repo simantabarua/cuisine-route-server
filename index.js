@@ -1,8 +1,9 @@
 const express = require("express");
 const cors = require("cors");
 
-const chefData = require("./cuisineData.json");
-
+const chefData = require("./data/cuisineData.json");
+const reviewData = require("./data/userReviewData.json");
+const featuredRecipeData = require("./data/featuredRecipeData.json");
 const app = express();
 const port = 3000;
 
@@ -10,12 +11,6 @@ const getSingleChef = (chefId) => {
   const chef = chefData.find((c) => c.id === chefId);
   return chef;
 };
-const getChefRecipe = (chefId) => {
-  const chef = chefData.find((c) => c.id === chefId);
-  return chef.recipes;
- 
-};
-getChefRecipe("c7e2f4d6a9b1");
 
 app.use(cors());
 app.get("/", (_, res) => {
@@ -25,16 +20,18 @@ app.get("/", (_, res) => {
 app.get("/chefData", (_, res) => {
   res.send(chefData);
 });
+app.get("/user-review", (_, res) => {
+  res.send(reviewData);
+});
+app.get("/featured-recipe", (_, res) => {
+  res.send(featuredRecipeData);
+});
 app.get("/chef/:id", (req, res) => {
   const id = req.params.id;
   const chef = getSingleChef(id);
   res.send(chef);
 });
-app.get("/recipes/:id", (req, res) => {
-  const id = req.params.id;
-  const recipes = getChefRecipe(id);
-  res.send(recipes);
-});
+
 app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });

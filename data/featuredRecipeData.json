@@ -1,0 +1,125 @@
+[
+  {
+    "recipeId": "9a7d2e5c8b6f1",
+    "recipeName": "Chiles en Nogada",
+    "recipeImage": "https://i.ibb.co/gRz4R8P/food-img1.jpg",
+    "ingredients": [
+      "6 poblano peppers",
+      "1 lb ground pork",
+      "1/2 onion, chopped",
+      "2 garlic cloves, minced",
+      "1/4 cup raisins",
+      "1/4 cup almonds, chopped",
+      "1/4 cup walnuts, chopped",
+      "2 apples, peeled and chopped",
+      "2 peaches, peeled and chopped",
+      "1/4 cup queso fresco, crumbled",
+      "1/4 cup pomegranate seeds",
+      "1/2 cup heavy cream",
+      "1/2 cup milk",
+      "1/4 tsp cinnamon",
+      "1/4 tsp nutmeg",
+      "1/4 tsp black pepper",
+      "Salt to taste"
+    ],
+    "cooking_method": "Bake",
+    "rating": 4.9
+  },
+  {
+    "recipeId": "9a7d2e5c8b6f2",
+    "recipeName": "Tamales de Elote",
+    "recipeImage": "https://i.ibb.co/tXSjnKL/food-img2.jpg",
+    "ingredients": [
+      "2 cups fresh corn kernels",
+      "1/2 cup masa harina",
+      "1/4 cup lard",
+      "1/4 cup chicken broth",
+      "1/4 cup sugar",
+      "1/4 tsp baking powder",
+      "1/4 tsp salt",
+      "Corn husks, soaked in warm water"
+    ],
+    "cooking_method": "Steamed",
+    "rating": 4.7
+  },
+  {
+    "recipeId": "9a7d2e5c8b6f3",
+    "recipeName": "Pozole Rojo",
+    "recipeImage": "https://i.ibb.co/d2hbgzq/food-img3.jpg",
+    "ingredients": [
+      "2 lbs pork shoulder",
+      "1 onion, chopped",
+      "4 garlic cloves, minced",
+      "2 bay leaves",
+      "2 tbsp chili powder",
+      "1 tsp oregano",
+      "6 cups chicken broth",
+      "2 cans hominy, drained and rinsed",
+      "Salt to taste"
+    ],
+    "cooking_method": "Stew",
+    "rating": 4.8
+  },
+  {
+    "recipeId": "d5b2f1a9c3e7",
+    "recipeName": "Chilaquiles",
+    "recipeImage": "https://i.ibb.co/9ym5xnM/food-img7.jpg",
+    "ingredients": [
+      "12 corn tortillas, cut into wedges",
+      "1 cup tomato sauce",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "1 jalapeño, seeded and chopped",
+      "1/4 cup crema or sour cream",
+      "1/4 cup queso fresco, crumbled",
+      "2 tbsp vegetable oil",
+      "Salt to taste"
+    ],
+    "cooking_method": "Fry",
+    "rating": 4.6
+  },
+  {
+    "recipeId": "d5b2f1a9c3e8",
+    "recipeName": "Cochinita Pibil",
+    "recipeImage": "https://i.ibb.co/tJVVrTs/food-img8.jpg",
+    "ingredients": [
+      "2 lbs pork shoulder",
+      "1 onion, chopped",
+      "4 garlic cloves, minced",
+      "1/4 cup orange juice",
+      "1/4 cup lime juice",
+      "1/4 cup achiote paste",
+      "1 tsp cumin",
+      "1 tsp oregano",
+      "1 tsp salt",
+      "Corn tortillas",
+      "Sliced onions",
+      "Chopped cilantro",
+      "Lime wedges"
+    ],
+    "cooking_method": "Bake",
+    "rating": 4.8
+  },
+  {
+    "recipeId": "d5b2f1a9c3e9",
+    "recipeName": "Tostadas de Tinga",
+    "recipeImage": "https://i.ibb.co/HH3gzc4/food-img9.jpg",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 onion, chopped",
+      "4 garlic cloves, minced",
+      "2 tomatoes, chopped",
+      "2 chipotle peppers in adobo sauce, chopped",
+      "1/4 tsp cumin",
+      "1/4 tsp dried oregano",
+      "1/4 cup chicken broth",
+      "Tostada shells",
+      "Shredded lettuce",
+      "Diced tomatoes",
+      "Sliced avocado",
+      "Cotija cheese"
+    ],
+    "cooking_method": "Simmer",
+    "rating": 4.7
+  }
+]
