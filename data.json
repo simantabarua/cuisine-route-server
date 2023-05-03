@@ -1,9 +1,9 @@
 [
   {
-    "chef": "Gordon Ramsay",
-    "cuisine": "British",
-    "country": "United Kingdom",
-    "chefImage": "ramsay.jpg",
+    "id": "0eef2fa971fd9f7d46a2",
+    "chefName": "Gordon Ramsay",
+    "cuisine": "Italian",
+    "chefImage": "example image",
     "chefExperience": 30,
     "recipes_count": 100,
     "likes": 25000,
@@ -69,7 +69,8 @@
     ]
   },
   {
-    "chef": "Nazrul Islam",
+    "id": "3c8fc7524a0f5b6d37e9",
+    "chefName": "Nazrul Islam",
     "cuisine": "Bangladeshi",
     "country": "Bangladesh",
     "chefImage": "chef.jpg",
@@ -114,30 +115,33 @@
         "name": "Chicken Korma",
         "recipeImage": "recipe3.jpg",
         "cuisine": "Bangladeshi",
-        "ingredients": ["1 kg chicken, cut into pieces",
-        "2 cups sliced onions",
-        "1/2 cup vegetable oil",
-        "2 tbsp ginger paste",
-        "2 tbsp garlic paste",
-        "1/2 cup plain yogurt",
-        "1/2 cup heavy cream",
-        "1/2 cup water",
-        "2 tsp ground coriander",
-        "2 tsp ground cumin",
-        "1 tsp ground turmeric",
-        "1 tsp red chili powder",
-        "1/2 tsp ground cinnamon",
-        "4 green cardamom pods",
-        "2 bay leaves",
-        "1 tsp sugar",
-        "Salt, to taste"],
+        "ingredients": [
+          "1 kg chicken, cut into pieces",
+          "2 cups sliced onions",
+          "1/2 cup vegetable oil",
+          "2 tbsp ginger paste",
+          "2 tbsp garlic paste",
+          "1/2 cup plain yogurt",
+          "1/2 cup heavy cream",
+          "1/2 cup water",
+          "2 tsp ground coriander",
+          "2 tsp ground cumin",
+          "1 tsp ground turmeric",
+          "1 tsp red chili powder",
+          "1/2 tsp ground cinnamon",
+          "4 green cardamom pods",
+          "2 bay leaves",
+          "1 tsp sugar",
+          "Salt, to taste"
+        ],
         "cooking_method": "Stew",
         "rating": 4.7
       }
     ]
   },
   {
-    "chef": "Karla Rodriguez",
+    "id": "f4a5ebde35125ac84c91",
+    "chefName": "Karla Rodriguez",
     "cuisine": "Mexican",
     "country": "Mexico",
     "chefImage": "karla.jpg",
@@ -187,7 +191,8 @@
     ]
   },
   {
-    "chef": "Marie Leclerc",
+    "id": "78c447905b1a1660d3f3",
+    "chefName": "Marie Leclerc",
     "cuisine": "French",
     "country": "France",
     "chefImage": "marie.jpg",
@@ -232,7 +237,8 @@
     ]
   },
   {
-    "chef": "Ravi Gupta",
+    "id": "bd61d23b6a53ec12b32d",
+    "chefName": "Ravi Gupta",
     "cuisine": "Indian",
     "country": "India",
     "chefImage": "ravi.jpg",
@@ -278,7 +284,8 @@
     ]
   },
   {
-    "chef": "Luisa Rossi",
+    "id": "a9a3c44c4cabe0a1a351",
+    "chefName": "Luisa Rossi",
     "cuisine": "Italian",
     "country": "Italy",
     "chefImage": "luisa.jpg",
@@ -316,7 +323,8 @@
     ]
   },
   {
-    "chef": "Satoshi Yamamoto",
+    "id": "7f8801bf103588928667",
+    "chefName": "Satoshi Yamamoto",
     "cuisine": "Japanese",
     "country": "Japan",
     "chefImage": "satoshi.jpg",
@@ -353,7 +361,8 @@
     ]
   },
   {
-    "chef": "Ayesha Rahman",
+    "id": "26dc8f18f656258e3468",
+    "chefName": "Ayesha Rahman",
     "cuisine": "Bangladeshi",
     "country": "Bangladesh",
     "chefImage": "chef1.jpg",
@@ -439,7 +448,8 @@
     ]
   },
   {
-    "chef": "Rashid Ahmed",
+    "id": "e95955f0c87cb9311ec2",
+    "chefName": "Rashid Ahmed",
     "cuisine": "Pakistani",
     "country": "Pakistan",
     "chefImage": "chef2.jpg",
@@ -537,7 +547,8 @@
     ]
   },
   {
-    "chef": "Muhammad Ali",
+    "id": "0f4229e9b3dce646ee42",
+    "chefName": "Muhammad Ali",
     "cuisine": "Pakistani",
     "country": "Pakistan",
     "chefImage": "chef3.jpg",
@@ -633,7 +644,8 @@
     ]
   },
   {
-    "chef": "Nirmala Devi",
+    "id": "c5af92a47251f98f7b7a",
+    "chefName": "Nirmala Devi",
     "cuisine": "Indian",
     "country": "India",
     "chefImage": "chef4.jpg",
@@ -725,7 +737,8 @@
     ]
   },
   {
-    "chef": "Satoshi Nakamoto",
+    "id": "4cc8a6c3a15f4e1fb9ba",
+    "chefName": "Satoshi Nakamoto",
     "cuisine": "Japanese",
     "country": "Japan",
     "chefImage": "chef5.jpg",

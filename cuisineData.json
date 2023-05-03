@@ -1,0 +1,511 @@
+[
+  {
+    "id": "c7e2f4d6a9b1",
+    "chefName": "Patricia Quintana",
+    "cuisine": "Mexican",
+    "chefImage": "https://www.eluniversal.com.mx/sites/default/files/2020/10/29/patriciaquintanaweb.jpg",
+    "chefExperience": 50,
+    "recipes_count": 60,
+    "likes": 25000,
+    "contact": {
+      "email": "patricia.quintana@example.com",
+      "phone": "+5215559876543"
+    },
+    "address": {
+      "city": "Mexico City",
+      "state": "Mexico"
+    },
+    "hobbies": ["gardening", "photography", "traveling"],
+    "chefDescription": "Patricia Quintana was a celebrated Mexican chef who passed away in 2018. She was known for her innovative approach to traditional Mexican dishes and was a pioneer of modern Mexican cuisine.",
+    "recipes": [
+      {
+        "recipeId": "9a7d2e5c8b6f1",
+        "recipeName": "Chiles en Nogada",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2020/07/chiles-en-nogada-recipe-1-500x375.jpg",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb ground pork",
+          "1/2 onion, chopped",
+          "2 garlic cloves, minced",
+          "1/4 cup raisins",
+          "1/4 cup almonds, chopped",
+          "1/4 cup walnuts, chopped",
+          "2 apples, peeled and chopped",
+          "2 peaches, peeled and chopped",
+          "1/4 cup queso fresco, crumbled",
+          "1/4 cup pomegranate seeds",
+          "1/2 cup heavy cream",
+          "1/2 cup milk",
+          "1/4 tsp cinnamon",
+          "1/4 tsp nutmeg",
+          "1/4 tsp black pepper",
+          "Salt to taste"
+        ],
+        "cooking_method": "Bake",
+        "rating": 4.9
+      },
+      {
+        "recipeId": "9a7d2e5c8b6f2",
+        "recipeName": "Tamales de Elote",
+        "recipeImage": "https://www.laylita.com/recipes/wp-content/uploads/2012/02/Tamales-de-elote-3.jpg",
+        "ingredients": [
+          "2 cups fresh corn kernels",
+          "1/2 cup masa harina",
+          "1/4 cup lard",
+          "1/4 cup chicken broth",
+          "1/4 cup sugar",
+          "1/4 tsp baking powder",
+          "1/4 tsp salt",
+          "Corn husks, soaked in warm water"
+        ],
+        "cooking_method": "Steamed",
+        "rating": 4.7
+      },
+      {
+        "recipeId": "9a7d2e5c8b6f3",
+        "recipeName": "Pozole Rojo",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2020/07/Pozole-Rojo-Recipe-Thumbnail-1.jpg",
+        "ingredients": [
+          "2 lbs pork shoulder",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 bay leaves",
+          "2 tbsp chili powder",
+          "1 tsp oregano",
+          "6 cups chicken broth",
+          "2 cans hominy, drained and rinsed",
+          "Salt to taste"
+        ],
+        "cooking_method": "Stew",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "f3cb1a9e7d5",
+    "chefName": "Diana Kennedy",
+    "cuisine": "Mexican",
+    "chefImage": "https://www.gannett-cdn.com/presto/2019/09/26/PDAA/bbefb02f-f58d-4f6d-b32b-06fb20fa9669-diana_kennedy.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp",
+    "chefExperience": 60,
+    "recipes_count": 70,
+    "likes": 18000,
+    "contact": {
+      "email": "diana.kennedy@example.com",
+      "phone": "+5215553332222"
+    },
+    "address": {
+      "city": "Zitácuaro",
+      "state": "Mexico"
+    },
+    "hobbies": ["gardening", "bird watching", "writing"],
+    "chefDescription": "Diana Kennedy is a British-born chef and author who has lived in Mexico for over 50 years. She is a leading authority on Mexican cuisine and has written several books on the subject.",
+    "recipes": [
+      {
+        "recipeId": "a9e7d5f3c1b4",
+        "recipeName": "Tacos al Pastor",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2014/08/Tacos-al-Pastor-2-1.jpg",
+        "ingredients": [
+          "1 lb pork shoulder, sliced thin",
+          "1/2 cup pineapple juice",
+          "1/4 cup white vinegar",
+          "3 garlic cloves, minced",
+          "1 tsp dried oregano",
+          "1 tsp chili powder",
+          "1 tsp cumin",
+          "1/2 tsp paprika",
+          "1/4 tsp cinnamon",
+          "Salt to taste",
+          "Corn tortillas",
+          "Chopped cilantro",
+          "Diced onions",
+          "Sliced avocado",
+          "Lime wedges"
+        ],
+        "cooking_method": "Grill",
+        "rating": 4.9
+      },
+      {
+        "recipeId": "a9e7d5f3c1b5",
+        "recipeName": "Mole Poblano",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2019/07/Mole-Poblano-Recipe-5.jpg",
+        "ingredients": [
+          "4 dried ancho chiles",
+          "2 dried pasilla chiles",
+          "2 dried mulato chiles",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "1/4 cup sesame seeds",
+          "1/4 cup almonds, chopped",
+          "1/4 cup raisins",
+          "1/4 cup chocolate chips",
+          "1/2 tsp cinnamon",
+          "1/4 tsp allspice",
+          "3 cups chicken broth",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Stew",
+        "rating": 4.8
+      },
+      {
+        "recipeId": "a9e7d5f3c1b6",
+        "recipeName": "Sopa de Lima",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2016/02/Sopa-de-Lima-2.jpg",
+        "ingredients": [
+          "2 chicken breasts",
+          "10 cups chicken broth",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "2 limes, juiced",
+          "1 avocado, diced",
+          "1/4 cup cilantro, chopped",
+          "Tortilla strips",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Simmer",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "b2d5f1e7a9c3",
+    "chefName": "Elena Reygadas",
+    "cuisine": "Mexican",
+    "chefImage": "https://www.bonappetit.com/wp-content/uploads/2021/02/Elena-Reygadas-2.jpg",
+    "chefExperience": 15,
+    "recipes_count": 40,
+    "likes": 10000,
+    "contact": {
+      "email": "elena.reygadas@example.com",
+      "phone": "+5215554443333"
+    },
+    "address": {
+      "city": "Mexico City",
+      "state": "Mexico"
+    },
+    "hobbies": ["yoga", "reading", "sailing"],
+    "chefDescription": "Elena Reygadas is a Mexican chef and restaurateur who has gained international recognition for her modern take on traditional Mexican cuisine. She is the owner of several restaurants in Mexico City.",
+    "recipes": [
+      {
+        "recipeId": "d5b2f1a9c3e7",
+        "recipeName": "Chilaquiles",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2014/07/Chilaquiles-Rojos-Recipe-1.jpg",
+        "ingredients": [
+          "12 corn tortillas, cut into wedges",
+          "1 cup tomato sauce",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 jalapeño, seeded and chopped",
+          "1/4 cup crema or sour cream",
+          "1/4 cup queso fresco, crumbled",
+          "2 tbsp vegetable oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "Fry",
+        "rating": 4.6
+      },
+      {
+        "recipeId": "d5b2f1a9c3e8",
+        "recipeName": "Cochinita Pibil",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2019/04/Cochinita-Pibil-Recipe-5.jpg",
+        "ingredients": [
+          "2 lbs pork shoulder",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "1/4 cup orange juice",
+          "1/4 cup lime juice",
+          "1/4 cup achiote paste",
+          "1 tsp cumin",
+          "1 tsp oregano",
+          "1 tsp salt",
+          "Corn tortillas",
+          "Sliced onions",
+          "Chopped cilantro",
+          "Lime wedges"
+        ],
+        "cooking_method": "Bake",
+        "rating": 4.8
+      },
+      {
+        "recipeId": "d5b2f1a9c3e9",
+        "recipeName": "Tostadas de Tinga",
+        "recipeImage": "https://www.holajalapeno.com/wp-content/uploads/2016/08/Tostadas-de-Tinga-7.jpg",
+        "ingredients": [
+          "2 chicken breasts",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "2 chipotle peppers in adobo sauce, chopped",
+          "1/4 tsp cumin",
+          "1/4 tsp dried oregano",
+          "1/4 cup chicken broth",
+          "Tostada shells",
+          "Shredded lettuce",
+          "Diced tomatoes",
+          "Sliced avocado",
+          "Cotija cheese"
+        ],
+        "cooking_method": "Simmer",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "e9d8c7b6a5f4",
+    "chefName": "Martha Ortiz",
+    "cuisine": "Mexican",
+    "chefImage": "https://res.cloudinary.com/sanpascual/image/upload/c_scale,w_800/v1625301568/sanpascual/martha-ortiz-chef-we-love_June2021.jpg",
+    "chefExperience": 25,
+    "recipes_count": 50,
+    "likes": 20000,
+    "contact": {
+      "email": "martha.ortiz@example.com",
+      "phone": "+5215557778888"
+    },
+    "address": {
+      "city": "Mexico City",
+      "state": "Mexico"
+    },
+    "hobbies": ["painting", "traveling", "horseback riding"],
+    "chefDescription": "Martha Ortiz is a Mexican chef and restaurateur who has gained international recognition for her innovative take on traditional Mexican cuisine. She is the owner of several restaurants in Mexico City.",
+    "recipes": [
+      {
+        "recipeId": "c7b6a5e9d8f41",
+        "recipeName": "Pescado a la Veracruzana",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2016/10/Pescado-a-la-Veracruzana-4.jpg",
+        "ingredients": [
+          "4 snapper fillets",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "1/4 cup green olives, chopped",
+          "1/4 cup capers",
+          "1/4 cup parsley, chopped",
+          "1/4 cup white wine",
+          "1/4 tsp dried oregano",
+          "1/4 tsp salt",
+          "1/4 tsp black pepper"
+        ],
+        "cooking_method": "Simmer",
+        "rating": 4.9
+      },
+      {
+        "recipeId": "c7b6a5e9d8f42",
+        "recipeName": "Tamales de Rajas",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2020/04/Tamales-de-Rajas-Recipe-3.jpg",
+        "ingredients": [
+          "2 cups masa harina",
+          "2 cups warm water",
+          "1/2 cup lard",
+          "1 tsp baking powder",
+          "1 tspsalt",
+          "2 poblano peppers, roasted, peeled, seeded and sliced into strips",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1/2 cup chicken broth",
+          "Corn husks"
+        ],
+        "cooking_method": "Steam",
+        "rating": 4.7
+      },
+      {
+        "recipeId": "c7b6a5e9d8f43",
+        "recipeName": "Chiles en Nogada",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2014/09/Chiles-en-Nogada-Recipe-1.jpg",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "2 tbsp vegetable oil",
+          "1/2 tsp cinnamon",
+          "1/4 tsp allspice",
+          "1/2 cup almonds, chopped",
+          "1/2 cup raisins",
+          "1/2 cup diced apple",
+          "1/2 cup diced pear",
+          "1/2 cup diced peach",
+          "1/2 cup pomegranate seeds",
+          "1/2 cup queso fresco, crumbled",
+          "1/2 cup fresh parsley, chopped",
+          "1/2 cup walnuts, chopped",
+          "1/2 cup heavy cream",
+          "Salt to taste"
+        ],
+        "cooking_method": "Roast",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "f3e4d5c6b7a8",
+    "chefName": "Enrique Olvera",
+    "cuisine": "Mexican",
+    "chefImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F04%2F29%2Fenrique-olvera.jpg",
+    "chefExperience": 20,
+    "recipes_count": 60,
+    "likes": 25000,
+    "contact": {
+      "email": "enrique.olvera@example.com",
+      "phone": "+5215556667777"
+    },
+    "address": {
+      "city": "Mexico City",
+      "state": "Mexico"
+    },
+    "hobbies": ["photography", "hiking", "surfing"],
+    "chefDescription": "Enrique Olvera is a Mexican chef and restaurateur who has been recognized as one of the best chefs in the world. He is the owner of several restaurants in Mexico City and New York City.",
+    "recipes": [
+      {
+        "recipeId": "e4d5c6b7a8f34",
+        "recipeName": "Taco de Pescado",
+        "recipeImage": "https://www.holajalapeno.com/wp-content/uploads/2018/06/Easy-Fish-Tacos-1.jpg",
+        "ingredients": [
+          "1 lb white fish, cut into strips",
+          "1/2 cup all-purpose flour",
+          "1 tsp paprika",
+          "1 tsp garlic powder",
+          "1 tsp onion powder",
+          "1 tsp ground cumin",
+          "Salt to taste",
+          "Corn tortillas",
+          "Shredded cabbage",
+          "Sliced avocado",
+          "Cilantro leaves",
+          "Lime wedges",
+          "Chipotle mayo"
+        ],
+        "cooking_method": "Fry",
+        "rating": 4.7
+      },
+      {
+        "recipeId": "e4d5c6b7a8f35",
+        "recipeName": "Mole Coloradito",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2020/11/Mole-Coloradito-Recipe-3.jpg",
+        "ingredients": [
+          "4 dried ancho chiles",
+          "2 dried guajillo chiles",
+          "2 tbsp vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1/4 cup sesame seeds",
+          "1/4 cup almonds, chopped",
+          "1/4 cup raisins",
+          "1/4 cup chocolate chips",
+          "1/2 tsp cinnamon",
+          "1/4 tsp allspice",
+          "3 cups chicken broth",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Stew",
+        "rating": 4.9
+      },
+      {
+        "recipeId": "e4d5c6b7a8f36",
+        "recipeName": "Tostada de Atún",
+        "recipeImage": "https://thefeedfeed.com/pinchofyum/tuna-poke-tostadas-with-mango-salsa-and-guacamole-and-a-huge-giveaway",
+        "ingredients": [
+          "1 lb sushi-grade tuna, cubed",
+          "1 avocado, diced",
+          "1 mango, diced",
+          "1/4 cup red onion, chopped",
+          "1 jalapeño, seeded and minced",
+          "1/4 cup cilantro leaves, chopped",
+          "2 tbsp soy sauce",
+          "2 tbsp lime juice",
+          "Tostada shells"
+        ],
+        "cooking_method": "Raw",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "g6h7i8j9k1l2",
+    "chefName": "Gabriela Cámara",
+    "cuisine": "Mexican",
+    "chefImage": "https://res.cloudinary.com/sanpascual/image/upload/c_scale,w_800/v1625301475/sanpascual/gabriela-camara-chef-we-love_June2021.jpg",
+    "chefExperience": 20,
+    "recipes_count": 50,
+    "likes": 18000,
+    "contact": {
+      "email": "gabriela.camara@example.com",
+      "phone": "+5215558889999"
+    },
+    "address": {
+      "city": "Mexico City",
+      "state": "Mexico"
+    },
+    "hobbies": ["reading", "gardening", "yoga"],
+    "chefDescription": "Gabriela Cámara is a Mexican chef and restaurateur who is known for her commitment to sustainable and locally-sourced ingredients. She is the owner of several restaurants in Mexico City and San Francisco.",
+    "recipes": [
+      {
+        "recipeId": "g6h7i8j9k1l27",
+        "recipeName": "Tostadas de Ceviche",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2021/02/Ceviche-Tostadas-Recipe-5.jpg",
+        "ingredients": [
+          "1 lb white fish, cut into small pieces",
+          "1/4 cup lime juice",
+          "1/4 cup lemon juice",
+          "1/4 cup orange juice",
+          "1/2 red onion, diced",
+          "1 serrano pepper, seeded and diced",
+          "1/4 cup cilantro leaves, chopped",
+          "Salt and pepper to taste",
+          "Tostada shells"
+        ],
+        "cooking_method": "Raw",
+        "rating": 4.7
+      },
+      {
+        "recipeId": "g6h7i8j9k1l28",
+        "recipeName": "Chiles Rellenos",
+        "recipeImage": "https://www.mexicoinmykitchen.com/wp-content/uploads/2013/08/Stuffed-Chiles-with-cheese-Mexico-in-my-Kitchen.jpg",
+        "ingredients": [
+          "6 poblano peppers",
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "2 tbsp vegetable oil",
+          "1/2 tsp cinnamon",
+          "1/4 tsp allspice",
+          "1/2 cup almonds, chopped",
+          "1/2 cup raisins",
+          "1/2 cup diced apple",
+          "1/2 cup diced pear",
+          "1/2 cup diced peach",
+          "1/2 cup pomegranate seeds",
+          "1/2 cup queso fresco, crumbled",
+          "1/2 cup fresh parsley, chopped",
+          "1/2 cup walnuts, chopped",
+          "1/2 cup heavy cream",
+          "Salt to taste"
+        ],
+        "cooking_method": "Roast and Fry",
+        "rating": 4.8
+      },
+      {
+        "recipeId": "g6h7i8j9k1l29",
+        "recipeName": "Taco de Camarones",
+        "recipeImage": "https://www.isabeleats.com/wp-content/uploads/2018/02/Shrimp-Tacos-Recipe-2.jpg",
+        "ingredients": [
+          "1 lb shrimp, peeled and deveined",
+          "1/4 cup olive oil",
+          "2 garlic cloves, minced",
+          "1/2 tsp smoked paprika",
+          "1/2 tsp chili powder",
+          "1/2 tsp cumin",
+          "Salt and pepper to taste",
+          "Corn tortillas",
+          "Shredded cabbage",
+          "Sliced avocado",
+          "Cilantro leaves",
+          "Lime wedges",
+          "Chipotle mayo"
+        ],
+        "cooking_method": "Grill",
+        "rating": 4.9
+      }
+    ]
+  }
+]
