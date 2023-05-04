@@ -11,7 +11,16 @@ const getSingleChef = (chefId) => {
   const chef = chefData.find((c) => c.id === chefId);
   return chef;
 };
-
+const getSingleRecipe = (id) => {
+  const chefObject = chefData.find((chef) =>
+    chef?.recipes?.find((recipe) => recipe?.recipeId === id)
+  );
+  // Find the target recipe within the chef object
+  const recipeObject = chefObject.recipes.find(
+    (recipe) => recipe.recipeId === id
+  );
+  return recipeObject;
+};
 app.use(cors());
 app.get("/", (_, res) => {
   res.send("sever is running");
@@ -31,7 +40,16 @@ app.get("/chef/:id", (req, res) => {
   const chef = getSingleChef(id);
   res.send(chef);
 });
-
+app.get("/single-recipe/:id", async (req, res) => {
+  try {
+    const recipeId = req.params.id;
+    const recipe = await getSingleRecipe(recipeId);
+    res.send(recipe);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send("Internal Server Error");
+  }
+});
 app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });

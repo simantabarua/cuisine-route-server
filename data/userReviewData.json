@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "userImg": "https://i.ibb.co/RN9MX3W/reviewuser1.jpg",
+    "userImg": "https://i.ibb.co/XbhsTXq/reviewuser4.jpg",
     "name": "Emily Smith",
     "location": "New York, NY",
     "review": "The food at [Brand Name] is absolutely amazing! I had the pleasure of trying their signature dish and it was so delicious that I ordered a second helping. The staff was friendly and welcoming, and the atmosphere was perfect for a night out with friends or a romantic dinner with your significant other. I highly recommend [Brand Name] to anyone looking for a high-quality dining experience.",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-      "userImg": "https://i.ibb.co/MMdgfZ1/reviewuser2.jpg",
+    "userImg": "https://i.ibb.co/MMdgfZ1/reviewuser2.jpg",
     "name": "John Davis",
     "location": "Los Angeles, CA",
     "review": "I recently attended a cooking class at [Brand Name] and it was one of the best experiences of my life. The chef was knowledgeable and patient, and he provided us with practical tips that we can use in our own kitchens. The class was hands-on, and we were able to taste our creations at the end. I highly recommend [Brand Name]'s cooking classes to anyone who wants to take their culinary skills to the next level.",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-      "userImg": "https://i.ibb.co/Qn38P6R/reviewuser3.jpg",
+    "userImg": "https://i.ibb.co/Qn38P6R/reviewuser3.jpg",
     "name": "Sarah Lee",
     "location": "Chicago, IL",
     "review": "The staff at [Brand Name] were so accommodating to our dietary restrictions. They made sure that every dish we ordered was gluten-free and dairy-free, and everything tasted delicious! We especially loved the vegan dessert - it was so rich and creamy that we couldn't believe it was dairy-free. We'll definitely be back the next time we're in town!",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-      "userImg": "https://i.ibb.co/XbhsTXq/reviewuser4.jpg",
+    "userImg": "https://i.ibb.co/RN9MX3W/reviewuser1.jpg",
     "name": "Mike Johnson",
     "location": "Houston, TX",
     "review": "I've been a regular at [Brand Name] for years now, and I can honestly say that their food has never disappointed me. The chef's attention to detail is evident in every dish, and the quality of the ingredients is second to none. I especially love their weekend brunch - the eggs benedict and bottomless mimosas are the perfect start to any weekend.",
@@ -33,25 +33,10 @@
   },
   {
     "id": 5,
-      "userImg": "https://i.ibb.co/WV8x5bX/reviewuser5.jpg",
+    "userImg": "https://i.ibb.co/WV8x5bX/reviewuser5.jpg",
     "name": "Katie White",
     "location": "San Francisco, CA",
     "review": "I recently hosted a private event at [Brand Name], and I was blown away by the level of service we received. The staff went above and beyond to make sure that every detail was taken care of, from the customized menu to the floral arrangements. The food was delicious, and our guests couldn't stop raving about it. I highly recommend [Brand Name] for anyone looking to host a special event.",
     "rating": 4.5
-  },
-  {
-    "id": 6,
-      "userImg": "https://i.ibb.co/71vtPVC/chef3.jpg",
-    "name": "David Brown",
-    "location": "Miami, FL",
-    "review": "I've taken several cooking classes at [Brand Name], and I've learned so much from their talented chefs. They provide hands-on instruction and useful tips that I can apply in my own kitchen. I also appreciate that they use high-quality ingredients and emphasize the importance of sustainability. I highly recommend [Brand Name]'s cooking classes to anyone who wants to improve their culinary skills.",
-    "rating": 4
   }
 ]
-
-
-
-
-
-
-
