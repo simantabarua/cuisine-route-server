@@ -7,10 +7,12 @@ const featuredRecipeData = require("./data/featuredRecipeData.json");
 const app = express();
 const port = 3000;
 
+//get single chef data
 const getSingleChef = (chefId) => {
   const chef = chefData.find((c) => c.id === chefId);
   return chef;
 };
+//get single recipe
 const getSingleRecipe = (id) => {
   const chefObject = chefData.find((chef) =>
     chef?.recipes?.find((recipe) => recipe?.recipeId === id)
@@ -21,9 +23,20 @@ const getSingleRecipe = (id) => {
   );
   return recipeObject;
 };
+//
+const getAllRecipes = () => {
+  let recipesArray = [];
+  for (chef of chefData) {
+    for (recipe of chef.recipes) {
+      recipesArray.push(recipe);
+    }
+  }
+  return recipesArray;
+};
+
 app.use(cors());
 app.get("/", (_, res) => {
-  res.send("sever is running");
+  res.send("Cuisine Route sever is running");
 });
 
 app.get("/chefData", (_, res) => {
@@ -49,6 +62,10 @@ app.get("/single-recipe/:id", async (req, res) => {
     console.error(error);
     res.status(500).send("Internal Server Error");
   }
+});
+app.get("/recipes", (req, res) => {
+  const recipes = getAllRecipes();
+  res.send(recipes);
 });
 app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
